@@ -1,6 +1,7 @@
 body
 {
-color: red;
+ color: red; 
+ background-color: green;
 }
 div.reading
 {
