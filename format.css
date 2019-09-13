@@ -3,11 +3,63 @@ body
  color: red; 
  background-color: green;
 }
+
+
 div.reading
 {
  background-color: green; 
 }
+
+
 element.style
 {
  color: crimson;
+}
+
+
+.header
+{
+    border: solid;
+}
+
+
+h1
+{
+    border: solid;
+}
+
+
+.reading
+{
+    border: solid;
+}
+
+
+.reading-box
+{
+  border: solid;  
+}
+
+
+.day-box PREP
+{
+    border: solid;
+}
+
+
+.day-box CURRENT
+{
+    border: solid;
+}
+
+
+.day-box COMPLETED
+{
+    border: solid;
+}
+
+
+.lab-box
+{
+    border: solid;
 }
