@@ -1,19 +1,19 @@
 body
 {
- color: red; 
- background-color: green;
+ color: ; 
+ background-color: ;
 }
 
 
 div.reading
 {
- background-color: green; 
+ background-color: ; 
 }
 
 
 element.style
 {
- color: crimson;
+ color: ;
 }
 
 
@@ -53,6 +53,24 @@ h1
 }
 
 
+.assignment_link
+{
+    border: solid;
+}
+
+
+.assignemtnWidget ASSIGNED
+{
+    border: solid;
+}
+
+
+.assignement-title
+{
+    border:solid;
+}
+
+
 .day-box COMPLETED
 {
     border: solid;
@@ -62,4 +80,10 @@ h1
 .lab-box
 {
     border: solid;
+}
+
+
+.special
+{
+    border:solid;
 }
