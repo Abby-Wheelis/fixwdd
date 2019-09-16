@@ -1,13 +1,13 @@
 body
 {
- color: black; 
- background-color: white;
+ color: ; 
+ background-color: ;
 }
 
 
 div.reading
 {
- background-color: white; 
+ background-color: ; 
 }
 
 
@@ -85,5 +85,14 @@ h1
 
 .special
 {
-    border:solid;
+    
+}
+
+
+iframe
+{
+    border: solid;
+    width: 800px;
+    height: 500px;
+    overflow: scroll;
 }
