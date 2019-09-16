@@ -96,3 +96,27 @@ iframe
     height: 500px;
     overflow: scroll;
 }
+
+
+.assignment_form
+{
+    border:solid;
+}
+
+
+.assignment_title
+{
+    border: solid;
+}
+
+
+.assignment_prompt
+{
+    border:solid;
+}
+
+
+input#submit
+{
+    background-color: pink;
+}
