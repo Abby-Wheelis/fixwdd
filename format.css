@@ -190,4 +190,5 @@ td:empty
 h1~div
 {
  color:red;
+ width: 50%;
 }
