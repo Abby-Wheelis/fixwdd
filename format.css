@@ -175,4 +175,8 @@ td:empty
  margin-top: 15px;
 }
 
-
+.person_image
+{
+ width: 80px;
+ height: 110px;
+}
