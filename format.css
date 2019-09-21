@@ -22,6 +22,7 @@ element.style
 {
     border: solid;
     width: 50%;
+    background-image: url("imgs/sand.jpg");
 }
 
 
@@ -181,7 +182,4 @@ td:empty
  height: 110px;
 }
 
-div>div
-{
- background-image: url("imgs/sand.jpg");
-}
+
