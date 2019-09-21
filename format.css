@@ -129,5 +129,10 @@ td
 {
  border-style: solid;
  border-width: 3px;
+}
 
+table
+{
+ empty-cells:hide;
+ border-collapse: collapse;
 }
