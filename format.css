@@ -5,13 +5,6 @@ body
  
 }
 
-
-/*div.reading
-{
- width: 50% ; 
-}*/
-
-
 element.style
 {
  color: ;
@@ -38,72 +31,6 @@ h1
  width: 50%; 
 }
 
-
-/*.reading
-{
-    border: solid;
-    width: 50%;
-}
-
-
-.reading-box
-{
- 
-}
-
-
-.day-box PREP
-{
-    
-}
-
-
-.day-box CURRENT
-{
-    
-}
-
-
-.assignment_link
-{
-    border: solid;
- width: 50%;
-}
-
-
-.assignemtnWidget ASSIGNED
-{
-    border: solid;
- width: 50%
-}
-
-
-.assignement-title
-{
-    border:solid;
- width:50%;
-}
-
-
-.day-box COMPLETED
-{
-   
-}
-
-
-.lab-box
-{
-    border: solid;
- width:50%;
-}
-
-
-.special
-{
-  width:50%;  
-}*/
-
-
 iframe
 {
     border: solid;
@@ -113,28 +40,6 @@ iframe
     float: right;
     background-color: white;
 }
-
-
-/*.assignment_form
-{
-    border:solid;
- width: 50%;
-}
-
-
-.assignment_title
-{
-    border: solid;
- width: 50%;
-}
-
-
-.assignment_prompt
-{
-    border:solid;
- width:50%;
-}*/
-
 
 input#submit
 {
@@ -159,18 +64,6 @@ td:empty
 {
  border: 0;
 }
-
-/*.prep-box
-{
- border: solid;
- width: 50%;
-}
-
-.grading-box
-{
- border: solid;
- width: 50%;
-}*/
 
 .day
 {
