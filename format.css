@@ -1,7 +1,7 @@
 body
 {
  color: ; 
- background-color: ;
+ background-image: url("imgs/lighter flowery.jpg");
 }
 
 
@@ -120,10 +120,4 @@ iframe
 input#submit
 {
     background-color: pink;
-}
-
-body
-{
- background-image: url("imgs/lighter-flower.jpg");
- 
 }
