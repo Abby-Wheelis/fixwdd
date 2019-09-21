@@ -197,7 +197,7 @@ h1~div
  background-color: azure;
 }
 
-body > div:nth-child(8)
+body > div
 {
  background-color: red;
 }
