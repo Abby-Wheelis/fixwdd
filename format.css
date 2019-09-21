@@ -90,7 +90,7 @@ h1~div
  background-color: azure;
 }
 
-.day-box COMPLETED
+h1~div.day-box.COMPLETED
 {
  background-color: red;
 }
