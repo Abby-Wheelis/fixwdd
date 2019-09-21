@@ -17,6 +17,10 @@ element.style
  color: ;
 }
 
+form
+{
+ background-color: azure;
+}
 
 .header
 {
@@ -183,7 +187,4 @@ td:empty
  height: 110px;
 }
 
-form
-{
- background-color: azure;
-}
+
