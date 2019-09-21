@@ -41,22 +41,19 @@ h1
 
 .reading-box
 {
-  border: solid;
- width: 50%;
+ 
 }
 
 
 .day-box PREP
 {
-    border: solid;
- width:50%;
+    
 }
 
 
 .day-box CURRENT
 {
-    border: solid;
- width: 50%;
+    
 }
 
 
@@ -83,8 +80,7 @@ h1
 
 .day-box COMPLETED
 {
-    border: solid;
- width:50%;
+   
 }
 
 
