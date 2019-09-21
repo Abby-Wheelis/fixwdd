@@ -41,55 +41,63 @@ h1
 
 .reading-box
 {
-  border: solid;  
+  border: solid;
+ width: 50%;
 }
 
 
 .day-box PREP
 {
     border: solid;
+ width:50%;
 }
 
 
 .day-box CURRENT
 {
     border: solid;
+ width: 50%;
 }
 
 
 .assignment_link
 {
     border: solid;
+ width: 50%;
 }
 
 
 .assignemtnWidget ASSIGNED
 {
     border: solid;
+ width: 50%
 }
 
 
 .assignement-title
 {
     border:solid;
+ width:50%;
 }
 
 
 .day-box COMPLETED
 {
     border: solid;
+ width:50%;
 }
 
 
 .lab-box
 {
     border: solid;
+ width:50%;
 }
 
 
 .special
 {
-    
+  width:50%;  
 }
 
 
@@ -107,18 +115,21 @@ iframe
 .assignment_form
 {
     border:solid;
+ width: 50%;
 }
 
 
 .assignment_title
 {
     border: solid;
+ width: 50%;
 }
 
 
 .assignment_prompt
 {
     border:solid;
+ width:50%;
 }
 
 
@@ -137,6 +148,7 @@ td
 table
 {
  border-collapse: collapse;
+ width: 50%;
 }
 
 td:empty
