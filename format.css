@@ -187,4 +187,7 @@ td:empty
  height: 110px;
 }
 
-
+h1~div
+{
+ color:red;
+}
