@@ -146,6 +146,7 @@ table
 {
  border-collapse: collapse;
  width: 50%;
+ background-image: url("imgs/sand");
 }
 
 td:empty
@@ -182,4 +183,7 @@ td:empty
  height: 110px;
 }
 
-
+form
+{
+ background-color: azure;
+}
