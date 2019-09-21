@@ -163,3 +163,8 @@ td:empty
  border: solid;
  width: 50%;
 }
+
+.day
+{
+ font-size: x-large;
+}
