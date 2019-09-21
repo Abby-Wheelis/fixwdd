@@ -123,3 +123,11 @@ input#submit
 {
     background-color: pink;
 }
+
+
+td
+{
+ border-style: solid;
+ border-width: 3px;
+
+}
