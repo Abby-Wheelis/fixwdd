@@ -197,7 +197,7 @@ h1~div
  background-color: azure;
 }
 
-.day-box COMPLETED
+body > div:nth-child(8)
 {
  background-color: red;
 }
