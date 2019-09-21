@@ -151,3 +151,9 @@ td:empty
 {
  border: 0;
 }
+
+.prep-box
+{
+ border: solid;
+ width: 50%;
+}
