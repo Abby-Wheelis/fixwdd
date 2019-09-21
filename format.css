@@ -121,3 +121,9 @@ input#submit
 {
     background-color: pink;
 }
+
+body
+{
+ bacground-image: url("imgs/lighter-flower.jpg");
+ 
+}
