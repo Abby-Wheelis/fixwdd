@@ -180,3 +180,8 @@ td:empty
  width: 80px;
  height: 110px;
 }
+
+.assignment_link
+{
+ float: right;
+}
