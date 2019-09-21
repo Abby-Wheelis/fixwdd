@@ -133,6 +133,6 @@ td
 
 table
 {
- empty-cells:hide;
+ empty-cells: hide;
  border-collapse: collapse;
 }
