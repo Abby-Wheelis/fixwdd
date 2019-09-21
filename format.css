@@ -181,7 +181,7 @@ td:empty
  height: 110px;
 }
 
-div
+div>div
 {
  background-image: url("imgs/sand.jpg");
 }
