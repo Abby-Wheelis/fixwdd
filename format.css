@@ -197,7 +197,7 @@ h1~div
  background-color: azure;
 }
 
-body > div
+.day-box COMPLETED
 {
  background-color: red;
 }
