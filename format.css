@@ -2,6 +2,7 @@ body
 {
  color: ; 
  background-image: url("imgs/flowers.jpg");
+ 
 }
 
 
@@ -92,8 +93,8 @@ h1
 iframe
 {
     border: solid;
-    width: 800px;
-    height: 500px;
+    width: 50%;
+    height: 100%;
     overflow: scroll;
     float: right;
 }
