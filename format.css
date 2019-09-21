@@ -20,6 +20,8 @@ element.style
 form
 {
  background-color: azure;
+ width: 50%;
+ border:solid;
 }
 
 .header
