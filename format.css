@@ -150,7 +150,7 @@ table
 {
  border-collapse: collapse;
  width: 50%;
- background-image: url("imgs/sand")!;
+ background-image: url("imgs/sand");
 }
 
 td:empty
