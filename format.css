@@ -197,10 +197,7 @@ h1~div
  background-color: azure;
 }
 
-h1~div.day-box COMPLETED
+.day-box COMPLETED
 {
- color:black;
- width: 50%;
- border: solid;
  background-color: red;
 }
