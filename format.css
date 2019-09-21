@@ -8,7 +8,7 @@ body
 
 div.reading
 {
- background-color: ; 
+ width: 50% ; 
 }
 
 
@@ -21,18 +21,21 @@ element.style
 .header
 {
     border: solid;
+    width: 50%;
 }
 
 
 h1
 {
     border: solid;
+ width: 50%; 
 }
 
 
 .reading
 {
     border: solid;
+    width: 50%;
 }
 
 
@@ -133,6 +136,10 @@ td
 
 table
 {
- empty-cells: hide;
  border-collapse: collapse;
+}
+
+td:empty
+{
+ border: 0;
 }
