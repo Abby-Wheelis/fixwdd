@@ -7,7 +7,7 @@ body
 
 form
 {
- background-color: azure;
+ background-color: #BCE2F5;
  width: 50%;
  border:solid;
 }
@@ -24,12 +24,12 @@ h1,h2
 {
  border: solid;
  width: 50%; 
- background-color: azure;
+ background-color: #BCE2F5;
 }
 
 h3
 {
- background-color: azure;
+ background-color: #BCE2F5;
  width: 50%;
 }
 
@@ -55,7 +55,7 @@ table
 {
  border-collapse: collapse;
  width: 45%;
- background-color: azure;
+ background-color: #BCE2F5;
 }
 
 td:empty
@@ -80,7 +80,7 @@ h1~div
 {
  width: 50%;
  border: solid;
- background-color: azure;
+ background-color: #BCE2F5;
 }
 
 h1~div.day-box.PREP
@@ -95,13 +95,13 @@ h1~div.day-box.CURRENT
 
 h1~div.day-box.COMPLETED
 {
- background-color: #7ECAEE;
+ background-color: #BCE2F5;
 }
 
 .prompt,.assignment_prompt
 {
  width: 100%;
- background-color: azure;
+ background-color: #BCE2F5;
  float: left;
  clear: left;
  border-bottom-style: double;
@@ -137,7 +137,7 @@ h1~div.day-box.COMPLETED
 
 div.graded-assignment
 {
- background-color: azure;
+ background-color: #BCE2F5;
     width: 20%;
     border: solid;
     margin-bottom: 20px;
@@ -158,7 +158,7 @@ div.day-box .assignment-title
 
 .person_info
 {
- background-color: azure;
+ background-color: #BCE2F5;
  border: solid;
  width: 25%;
  border-radius: 15px;
