@@ -44,8 +44,10 @@ iframe
     width: 45%;
     height: 800px;
     overflow: scroll;
-    float: right;
     background-color: white;
+ position: absolute;
+ top: 5%;
+  right: 52%;
 }
 
 input#submit
