@@ -138,5 +138,11 @@ h1~div.day-box.COMPLETED
 div.graded-assignment
 {
  background-color: azure;
- width: 50%;
+    width: 20%;
+    border: solid;
+    margin-bottom: 20px;
+    font-size: larger;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
 }
