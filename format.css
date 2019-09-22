@@ -107,7 +107,7 @@ h1~div.day-box.COMPLETED
 
 .prompt,.assignment_prompt
 {
- width: 100%;
+ width: 50%;
  background-color: #BCE2F5;
  float: left;
  clear: left;
@@ -123,12 +123,14 @@ h1~div.day-box.COMPLETED
     font-weight: bold;
  float: left;
  clear: left;
+ width: 50%
 }
 
 .grade-table
 {
  float:left;
  clear: left;
+ width: 50%
 }
 
 .question div, form .prompt, body > form > div.question > div.rubric_score > table
