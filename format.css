@@ -100,9 +100,9 @@ h1~div.day-box.COMPLETED
 
 .prompt,.assignment_prompt
 {
- width: 45%;
+ width: 100%;
  border:solid;
- background-color: azure;
+ background-color: green;
  float: left;
  clear: left;
 }
