@@ -41,7 +41,7 @@ h3
 iframe
 {
     border: solid;
-    width: 50%;
+    width: 45%;
     height: 800px;
     overflow: scroll;
     float: right;
@@ -63,7 +63,7 @@ td
 table
 {
  border-collapse: collapse;
- width: 50%;
+ width: 45%;
  background-color: azure;
 }
 
@@ -100,7 +100,7 @@ h1~div.day-box.COMPLETED
 
 .prompt,.assignment_prompt
 {
- width: 50%;
+ width: 45%;
  border:solid;
  background-color: azure;
 }
@@ -108,7 +108,7 @@ h1~div.day-box.COMPLETED
 .assignment-title
 {
    background-color: red;
-    width: 50%;
+    width: 45%;
     Font-size: x-large;
     font-weight: bold;
     border: solid;
