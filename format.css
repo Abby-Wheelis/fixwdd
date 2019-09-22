@@ -167,4 +167,5 @@ div.day-box .assignment-title
 .header .person_info
 {
  border: none;
+ background-color: transparent;
 }
