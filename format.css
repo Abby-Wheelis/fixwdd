@@ -129,4 +129,5 @@ h1~div.day-box.COMPLETED
 .question div, .question .assignment-title
 {
  color: green;
+ clear: left;
 }
