@@ -45,12 +45,6 @@ iframe
   left: 52%;
 }
 
-input#submit
-{
-    background-color: pink;
-}
-
-
 td
 {
  border-style: solid;
@@ -115,7 +109,7 @@ h1~div.day-box.COMPLETED
 
 .assignment-title,.view_text
 {
-   background-color: red;
+   background-color: #7ECAEE ;
     width: 45%;
     Font-size: x-large;
     font-weight: bold;
@@ -132,7 +126,7 @@ h1~div.day-box.COMPLETED
 
 .question div, form .prompt, body > form > div.question > div.rubric_score > table
 {
- color: green;
+ color: #24365E;
  clear: left;
  width: 100%;
  margin-top: 5px;
