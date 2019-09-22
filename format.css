@@ -126,7 +126,7 @@ h1~div.day-box.COMPLETED
  clear: left;
 }
 
-.question div, .question .assignment-title
+.question div, .prompt
 {
  color: green;
  clear: left;
