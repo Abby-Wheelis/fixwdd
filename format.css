@@ -95,9 +95,19 @@ h1~div
  background-color: azure;
 }
 
+h1~div.day-box.PREP
+{
+ background-color: #FEE9D6;
+}
+
+h1~div.day-box.CURRENT
+{
+ background-color: #DAC4AD;
+}
+
 h1~div.day-box.COMPLETED
 {
- background-color: red;
+ background-color: #7ECAEE;
 }
 
 .prompt,.assignment_prompt
@@ -162,6 +172,7 @@ div.day-box .assignment-title
  border: solid;
  width: 25%;
  border-radius: 15px;
+ padding: 10px;
 }
 
 .header .person_info
