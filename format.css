@@ -153,3 +153,10 @@ div.day-box .assignment-title
  color: blue;
 }
 
+.person_info
+{
+ background-color: azure;
+ border: solid;
+ width: 25%;
+ border-radius: 15px;
+}
