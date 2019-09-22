@@ -103,6 +103,8 @@ h1~div.day-box.COMPLETED
  width: 45%;
  border:solid;
  background-color: azure;
+ float: left;
+ clear: left;
 }
 
 .assignment-title,.view_text
@@ -112,4 +114,6 @@ h1~div.day-box.COMPLETED
     Font-size: x-large;
     font-weight: bold;
     border: solid;
+ float: left;
+ clear: left;
 }
