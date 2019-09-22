@@ -106,7 +106,6 @@ h1~div.day-box.COMPLETED
  color: red;
  float: left;
  clear: left;
- border-bottom-style: double;
 }
 
 .assignment_prompt
