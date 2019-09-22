@@ -47,7 +47,7 @@ iframe
     background-color: white;
  position: absolute;
  top: 5%;
-  right: 52%;
+  left: 52%;
 }
 
 input#submit
