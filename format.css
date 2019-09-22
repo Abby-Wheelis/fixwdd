@@ -134,6 +134,7 @@ h1~div.day-box.COMPLETED
  color: yellow;
  float: left;
  clear: left;
+ width: 50%;
 }
 
 .grade-table
@@ -207,4 +208,5 @@ body > form > div.assignment_title
  color: yellow;
  float: left;
  clear: left;
+ width: 50%;
 }
