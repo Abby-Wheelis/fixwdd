@@ -116,7 +116,7 @@ h1~div.day-box.COMPLETED
  margin-bottom: 5px;
 }
 
-.assignment-title, .view_text
+.assignment_title, .view_text
 {
    background-color: #7ECAEE ;
     width: 45%;
@@ -125,7 +125,6 @@ h1~div.day-box.COMPLETED
     border: solid;
  float: left;
  clear: left;
- border-bottom-style: double;
 }
 
 .grade-table
@@ -182,4 +181,9 @@ div.day-box .assignment-title
 textarea
 {
  width: 600px;
+}
+
+.assignment-title
+{
+ border-bottom-style: double;
 }
