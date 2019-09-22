@@ -149,8 +149,12 @@ div.graded-assignment
 
 div.day-box .assignment-title
 {
- width: 100%;
- color: blue;
+    width: 100%;
+    border: none;
+    background-color: transparent;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
 }
 
 .person_info
@@ -163,5 +167,5 @@ div.day-box .assignment-title
 
 .header .person_info
 {
- float: right;
+ border: none;
 }
