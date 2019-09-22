@@ -117,3 +117,9 @@ h1~div.day-box.COMPLETED
  float: left;
  clear: left;
 }
+
+.grade-table
+{
+ float:left;
+ clear: left;
+}
