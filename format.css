@@ -125,3 +125,8 @@ h1~div.day-box.COMPLETED
  float:left;
  clear: left;
 }
+
+.question div
+{
+ color: green;
+}
