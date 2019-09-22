@@ -106,8 +106,6 @@ h1~div.day-box.COMPLETED
  float: left;
  clear: left;
  border-bottom-style: double;
- margin-top: 5px;
- margin-bottom: 5px;
 }
 
 .assignment_title, .view_text
