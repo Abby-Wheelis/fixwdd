@@ -107,7 +107,7 @@ h1~div.day-box.COMPLETED
  clear: left;
 }
 
-.assignment-title,.view_text
+.assignment-title, .view_text
 {
    background-color: #7ECAEE ;
     width: 45%;
