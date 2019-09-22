@@ -126,7 +126,7 @@ h1~div.day-box.COMPLETED
  clear: left;
 }
 
-.question div, form .prompt
+.question div, form .prompt, body > form > div.question > div.rubric_score > table
 {
  color: green;
  clear: left;
