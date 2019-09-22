@@ -173,6 +173,18 @@ div.day-box .assignment-title
     background-color: transparent;
     margin-top: 5px;
     margin-bottom: 5px;
+ color: orange;
+}
+
+div.day-box+.assignment-title
+{
+    width: 100%;
+    border: none;
+    background-color: transparent;
+    margin-top: 5px;
+    margin-bottom: 5px;
+ color: orange;
+ border-bottom-style: double;
 }
 
 .person_info
