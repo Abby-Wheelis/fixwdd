@@ -118,11 +118,9 @@ h1~div.day-box.COMPLETED
 
 .assignment_title, .view_text
 {
-   background-color: #7ECAEE ;
-    width: 45%;
+   background-color: #BCE2F5;
     Font-size: x-large;
     font-weight: bold;
-    border: solid;
  float: left;
  clear: left;
 }
