@@ -128,7 +128,7 @@ h1~div.day-box.COMPLETED
  width: 50%
 }
 
-.assignment-title
+.assignment-title, assignement_title
 {
    background-color: #BCE2F5;
     Font-size: x-large;
@@ -136,7 +136,6 @@ h1~div.day-box.COMPLETED
  color: yellow;
  float: left;
  clear: left;
- width: 50%
 }
 
 .grade-table
