@@ -125,6 +125,7 @@ h1~div.day-box.COMPLETED
     border: solid;
  float: left;
  clear: left;
+ border-bottom-style: double;
 }
 
 .grade-table
@@ -181,9 +182,4 @@ div.day-box .assignment-title
 textarea
 {
  width: 600px;
-}
-
-.prep-box
-{
- border-bottom-style: double;
 }
