@@ -176,7 +176,7 @@ div.day-box .assignment-title
  color: orange;
 }
 
-div.day-box+.assignment-title
+div.day-box+div.assignment-title
 {
     width: 100%;
     border: none;
