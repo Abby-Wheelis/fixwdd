@@ -199,3 +199,13 @@ label
  float: left;
   clear: both;
 }
+
+body > form > div.assignment_title
+{
+ background-color: #BCE2F5;
+    Font-size: x-large;
+    font-weight: bold;
+ color: yellow;
+ float: left;
+ clear: left;
+}
