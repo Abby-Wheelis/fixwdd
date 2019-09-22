@@ -126,7 +126,7 @@ h1~div.day-box.COMPLETED
  width: 50%
 }
 
-.assignment-title, assignement_title
+.assignment-title, .assignement_title
 {
    background-color: #BCE2F5;
     Font-size: x-large;
