@@ -160,3 +160,8 @@ div.day-box .assignment-title
  width: 25%;
  border-radius: 15px;
 }
+
+.header .person_info
+{
+ float: right;
+}
