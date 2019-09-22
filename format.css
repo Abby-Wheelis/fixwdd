@@ -104,6 +104,7 @@ h1~div.day-box.COMPLETED
  background-color: azure;
  float: left;
  clear: left;
+ border-bottom-style: double;
 }
 
 .assignment-title, .view_text
@@ -167,3 +168,4 @@ div.day-box .assignment-title
  border: none;
  background-color: transparent;
 }
+
