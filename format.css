@@ -99,20 +99,43 @@ h1~div.day-box.COMPLETED
  background-color: #BCE2F5;
 }
 
-.prompt,.assignment_prompt
+.prompt
 {
  width: 50%;
  background-color: #BCE2F5;
+ color: red;
  float: left;
  clear: left;
  border-bottom-style: double;
 }
 
-.assignment_title, .view_text
+.assignment_prompt
+{
+ width: 50%;
+ background-color: #BCE2F5;
+ color: green;
+ float: left;
+ clear: left;
+ border-bottom-style: double;
+}
+
+.view_text
 {
    background-color: #BCE2F5;
     Font-size: x-large;
     font-weight: bold;
+ color: purple;
+ float: left;
+ clear: left;
+ width: 50%
+}
+
+.assignment_title
+{
+   background-color: #BCE2F5;
+    Font-size: x-large;
+    font-weight: bold;
+ color: yellow;
  float: left;
  clear: left;
  width: 50%
