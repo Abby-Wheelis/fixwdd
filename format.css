@@ -171,3 +171,7 @@ div.day-box .assignment-title
  background-color: transparent;
 }
 
+textarea
+{
+ width: 600px;
+}
