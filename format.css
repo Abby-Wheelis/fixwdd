@@ -234,7 +234,7 @@ svg
 {
  background-image: url("imgs/shells?.jpg");
   padding: 10px;
- margins: 25px;
+ margin: 25px;
  border: solid;
  border-radius: 25px;
 }
