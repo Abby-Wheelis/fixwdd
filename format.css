@@ -229,3 +229,9 @@ input[type=submit]
 {
  background-color: green;
 }
+
+svg
+{
+ background-image: url("imgs/water.jpg");
+  padding: 10px;
+}
