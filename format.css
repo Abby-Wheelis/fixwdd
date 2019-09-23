@@ -238,3 +238,12 @@ svg
  border: solid;
  border-radius: 25px;
 }
+
+.grade
+{
+ 
+ border-style: solid;
+ background-color: red;
+}
+ 
+}
