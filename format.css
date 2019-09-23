@@ -272,9 +272,13 @@ a:hover, a:active
 
 #special1
 {
-    background-image: url(imgs/beach1.jpg);
+        background-image: url(imgs/beach1.jpg);
     float: right;
-    width: 45%;
-    height: 50%;
-    padding: 500px;
+    padding: 22.5%;
+    border: solid;
+    border-width: thick;
+    border-color: white;
+ position: absolute;
+ top: 5%;
+  left: 52%;
 }
