@@ -43,6 +43,7 @@ iframe
  position: absolute;
  top: 5%;
   left: 52%;
+ border-width: thick;
 }
 
 td
