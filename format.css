@@ -232,11 +232,12 @@ input[type=submit]
 
 svg
 {
- background-image: url("imgs/island.jpg");
-  padding: 10px;
- margin: 25px;
- border: solid;
- border-radius: 25px;
+background-image: url(imgs/island.jpg);
+    padding: 50px;
+    margin: 50px;
+    border: solid;
+    border-width: 50px;
+    border-image: url(imgs/sand.jpg) 30 round;
 }
 
 h3 + .grade
