@@ -275,11 +275,12 @@ a:hover, a:active
 {
         background-image: url(imgs/beach2.png);
     float: right;
-    padding: 22.5%;
     border: solid;
     border-width: thick;
     border-color: white;
  position: absolute;
  top: 5%;
   left: 52%;
+ width: 650px;
+ height: 600px:
 }
