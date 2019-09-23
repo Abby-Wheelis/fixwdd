@@ -262,3 +262,10 @@ a:hover
  font-size: x-large;
  color: red;
 }
+
+.grading-box 
+{
+ border-top-style: solid;
+ border-color: orange;
+}
+
