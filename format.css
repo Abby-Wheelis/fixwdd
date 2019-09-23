@@ -272,8 +272,6 @@ a:hover, a:active
 
 #special1
 {
- background-color: yellow;
- width: 45%;
- height: 150px;
+ background-image: url("imgs/beach1.jpg");
  float: right;
 }
