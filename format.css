@@ -273,4 +273,7 @@ a:hover, a:active
 #special1
 {
  background-color: yellow;
+ width: 45%;
+ height: 150px;
+ float: right;
 }
