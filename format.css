@@ -104,7 +104,7 @@ h1~div.day-box.COMPLETED
 {
  width: 50%;
  background-color: #BCE2F5;
- color: red;
+ color: #24365E;
  float: left;
  clear: left;
 }
@@ -112,7 +112,7 @@ h1~div.day-box.COMPLETED
 .assignment_prompt
 {
  background-color: #BCE2F5;
- color: green;
+ color: #24365E;
  float: left;
  clear: left;
  border-bottom-style: double;
@@ -122,7 +122,7 @@ h1~div.day-box.COMPLETED
 .view_text
 {
    background-color: #BCE2F5;
- color: purple;
+ color: #24365E;
  float: left;
  clear: left;
  width: 50%
@@ -133,7 +133,7 @@ h1~div.day-box.COMPLETED
    background-color: #BCE2F5;
     Font-size: x-large;
     font-weight: bold;
- color: yellow;
+ color:#24365E;
  float: left;
  clear: left;
  width: 50%;
@@ -175,7 +175,7 @@ div.day-box .assignment-title
     background-color: transparent;
     margin-top: 5px;
     margin-bottom: 5px;
- color: orange;
+ color: green;
 }
 
 div.day-box+div.assignment-title
@@ -185,7 +185,7 @@ div.day-box+div.assignment-title
     background-color: transparent;
     margin-top: 5px;
     margin-bottom: 5px;
- color: orange;
+ color: green;
  border-bottom-style: double;
 }
 
@@ -220,7 +220,7 @@ body > form > div.assignment_title
  background-color: #BCE2F5;
     Font-size: x-large;
     font-weight: bold;
- color: yellow;
+ color: #24365E;
  float: left;
  clear: left;
  width: 50%;
@@ -261,7 +261,7 @@ table .person_info {
 a:hover, a:active
 {
  background-color: yellow !important;
- color: green;
+ color: #24365E;
 }
 
 .day-box.CURRENT .grading-box, .day-box.COMPLETED .grading-box
