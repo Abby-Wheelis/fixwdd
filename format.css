@@ -263,7 +263,7 @@ a:hover
  color: green;
 }
 
-.day-box.CURRENT .grading-box. .day-box.COMPLETED .grading-box
+.day-box.CURRENT .grading-box, .day-box.COMPLETED .grading-box
 {
  border-top-style: double;
  border-color: orange;
