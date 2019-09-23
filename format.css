@@ -259,7 +259,7 @@ table .person_info {
 
 a:hover
 {
- background-color: yellow;
+ background-color: yellow!important;
  color: green;
 }
 
