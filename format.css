@@ -239,7 +239,7 @@ svg
  border-radius: 25px;
 }
 
-.grade
+h3 + .grade
 {
  
  border-style: solid;
