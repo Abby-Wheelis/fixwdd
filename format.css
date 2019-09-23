@@ -266,6 +266,6 @@ a:hover
 .day-box.CURRENT .grading-box, .day-box.COMPLETED .grading-box
 {
  border-top-style: double;
- border-color: orange;
+ padding-top: 7px;
 }
 
