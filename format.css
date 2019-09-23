@@ -224,3 +224,8 @@ body > form > div.assignment_title
  clear: left;
  width: 50%;
 }
+
+input[type=submit]
+{
+ background-color: green;
+}
