@@ -232,6 +232,9 @@ input[type=submit]
 
 svg
 {
- background-image: url("imgs/water.jpg");
+ background-image: url("imgs/ISLAND.jpg");
   padding: 10px;
+ margins: 25px;
+ border: solid;
+ border-radius: 25px;
 }
