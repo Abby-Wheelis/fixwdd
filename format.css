@@ -260,6 +260,7 @@ table .person_info {
 a:hover
 {
  background-color: yellow;
+ color: green;
 }
 
 .grading-box 
