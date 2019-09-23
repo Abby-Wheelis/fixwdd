@@ -249,7 +249,7 @@ h3 + .grade
 }
  
 
-table ~ .person_info {
+table .person_info {
     background-color: #BCE2F5;
     border: solid;
     /* width: 25%; */
