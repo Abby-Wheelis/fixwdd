@@ -248,3 +248,10 @@ h3 + .grade
 }
  
 
+td ~ .person_info {
+    background-color: #BCE2F5;
+    border: solid;
+    /* width: 25%; */
+    border-radius: 15px;
+    padding: 10px;
+}
