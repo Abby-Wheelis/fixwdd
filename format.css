@@ -256,3 +256,9 @@ table ~ .person_info {
     border-radius: 15px;
     padding: 10px;
 }
+
+a:hover
+{
+ font-size: x-large;
+ color: red;
+}
