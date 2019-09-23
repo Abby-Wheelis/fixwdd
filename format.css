@@ -265,7 +265,11 @@ a:hover
 
 .grading-box 
 {
- border-top-style: solid;
+ border-top-style: double;
  border-color: orange;
 }
 
+body > div.day-box.PREP > a > div > div
+{
+ border-top-style: dashed
+}
