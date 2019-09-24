@@ -175,7 +175,7 @@ div.day-box .assignment-title
     background-color: transparent;
     margin-top: 5px;
     margin-bottom: 5px;
- color: green;
+ color: #004200;
 }
 
 div.day-box+div.assignment-title
@@ -185,7 +185,7 @@ div.day-box+div.assignment-title
     background-color: transparent;
     margin-top: 5px;
     margin-bottom: 5px;
- color: green;
+ color: #004200;
  border-bottom-style: double;
 }
 
