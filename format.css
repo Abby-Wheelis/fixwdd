@@ -12,10 +12,8 @@ form
  background-color: #BCE2F5;
  width: 50%;
  border:solid;
+ overflow: auto;
 }
-
-.account_form
-{height:500px}
 
 /*other individual form fixes, here goes nothing*/
 .title
