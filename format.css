@@ -2,7 +2,7 @@ body
 {
  color: #24365E; 
  background-image: url("imgs/water.jpg");
- font-size: 18px;
+ font-size: 20px;
 }
 
 form
@@ -15,7 +15,7 @@ form
 
 /*other individual form fixes, here goes nothing*/
 .title
-{font-weight: bolder; padding:5px;}
+{font-weight: bolder; padding:5px; font-size: 30px;}
 
 input[type=text]
 {float: left; clear:left}
