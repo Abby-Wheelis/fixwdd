@@ -16,7 +16,7 @@ form
 .title
 {font-weight: bolder; padding:5px;}
 
-.person_first_name, .person_prefered_name, .person_last_name, person_prefered_pronoun, .cause_desc
+input[type=text]
 {float: left; clear:left}
 
 .header
