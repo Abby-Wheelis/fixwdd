@@ -10,6 +10,7 @@ form
  background-color: #BCE2F5;
  width: 50%;
  border:solid;
+ height:500px;
 }
 
 /*other individual form fixes, here goes nothing*/
@@ -17,6 +18,9 @@ form
 {font-weight: bolder; padding:5px;}
 
 input[type=text]
+{float: left; clear:left}
+
+input[type=input]
 {float: left; clear:left}
 
 .header
@@ -288,7 +292,7 @@ a:hover, a:active
     border-color: white;
  position: absolute;
  top: 5%;
-  left: 55%;
+  left: 60%;
  width: 650px;
  height: 600px;
 }
