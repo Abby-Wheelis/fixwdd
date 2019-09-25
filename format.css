@@ -100,7 +100,7 @@ h1~div
  width: 50%;
  border: solid;
  background-color: #BCE2F5;
- padding-bottom: 40px;
+ overflow: auto;
 }
 
 h1~div.day-box.PREP
