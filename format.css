@@ -281,7 +281,7 @@ table .person_info {
 
 a:hover, a :hover
 {
- background-color: yellow !important;
+ background-color: #ffff99;
  color: #24365E;
 }
 
