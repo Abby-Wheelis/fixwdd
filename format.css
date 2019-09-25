@@ -249,7 +249,7 @@ input[type=submit]
     font-size: 25px;
     font-weight: bolder;
     padding: 5px;
-    background-image: url(imgs/shells.jpg);
+    background-color: #ffff99;
     border-radius: 15px;
 }
 
