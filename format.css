@@ -23,6 +23,9 @@ input[type=text]
 input[type=file]
 {float: left; clear:left}
 
+label
+{padding-top:10px;}
+
 .header
 {
     border: solid;
