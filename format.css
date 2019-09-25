@@ -20,7 +20,7 @@ form
 input[type=text]
 {float: left; clear:left}
 
-input[type=input]
+input[type=file]
 {float: left; clear:left}
 
 .header
