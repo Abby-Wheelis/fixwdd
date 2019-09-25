@@ -279,7 +279,7 @@ table .person_info {
     padding: 10px;
 }
 
-a:hover, a:active
+a:hover, a :hover
 {
  background-color: yellow !important;
  color: #24365E;
