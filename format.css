@@ -285,7 +285,7 @@ a:hover, a:active
  color: #24365E;
 }
 
-.day-box.CURRENT .grading-box, .day-box.COMPLETED .grading-box
+.day-box.CURRENT .grading-box, .day-box.COMPLETED .grading-box, .day-box.PREP .grading-box
 {
  border-top-style: double;
  padding-top: 7px;
@@ -304,4 +304,10 @@ a:hover, a:active
   left: 60%;
  width: 650px;
  height: 600px;
+}
+
+/*overflow fix for the line issue*/
+.prep-box
+{
+ overflow: auto;
 }
